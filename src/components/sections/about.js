@@ -146,10 +146,10 @@ const About = () => {
               Today, I’ve had the privilege of working at{' '}
               <a href="https://naivas.online/">a leading retailer in east africa </a>,
               <a href="https://gilanisdistributors.com/">an FMCG distributor </a>,
-              <a href="https://www.savannahghi.org/">a healthcare system company</a> and
+              <a href="https://www.savannahghi.org/">a healthcare system company</a> and{' '}
               <a href="https://www.amnestykenya.org/"> a digital human rights NGO</a>. Passionate
               about providing accessible, data-driven strategies, I aim to improve decision-making,
-              optimize processes and foster significant business growth at
+              optimize processes and foster significant business growth at{' '}
               <a href="https://naivas.online/">Naivas</a> for 10M+ customers monthly.
             </p>
 
