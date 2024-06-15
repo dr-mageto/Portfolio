@@ -135,11 +135,11 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I am deeply passionate about transforming raw data into meaningful and actionable
-              insights that drive informed decision-making and business success. I find joy in all
-              facets of data work, from collection and engineering (including transforming,
-              pipelining, modeling, and feature engineering) to analysis and creating machine
-              learning models for predictions and forecasting.
+              I am passionate about transforming raw data into meaningful and actionable insights
+              that drive informed decision-making and business success. I find joy in all facets of
+              data work, from collection and engineering (including transforming, pipelining,
+              modeling, and feature engineering) to analysis and creating machine learning models
+              for predictions and forecasting.
             </p>
 
             <p>
