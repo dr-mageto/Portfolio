@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Microsoft Excel', 'PowerBI', 'Python', 'Apache Spark', 'SQL', 'Scikit-learn'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -146,24 +146,21 @@ const About = () => {
               Today, I’ve had the privilege of working at{' '}
               <a href="https://naivas.online/">a leading retailer in east africa </a>,
               <a href="https://gilanisdistributors.com/">an FMCG distributor </a>,
-              <a href="https://www.savannahghi.org/">a healthcare system company</a>
-              <a href="https://www.amnestykenya.org/">
-                {' '}
-                and a community-led digital human rights NGO
-              </a>
-              . Passionate about providing accessible, data-driven strategies, I aim to improve
-              decision-making, optimize processes and foster significant business growth at
+              <a href="https://www.savannahghi.org/">a healthcare system company</a> and
+              <a href="https://www.amnestykenya.org/"> a digital human rights NGO</a>. Passionate
+              about providing accessible, data-driven strategies, I aim to improve decision-making,
+              optimize processes and foster significant business growth at
               <a href="https://naivas.online/">Naivas</a> for 10M+ customers monthly.
             </p>
 
-            <p>
+            {/* <p>
               I also recently{' '}
               <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
                 launched a course
               </a>{' '}
               that covers everything you need to build a web app with the Spotify API using Node
               &amp; React.
-            </p>
+            </p> */}
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
