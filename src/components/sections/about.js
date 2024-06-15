@@ -129,22 +129,23 @@ const About = () => {
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
-      <h2 className="numbered-heading">About Me</h2>
+      <h2 className="numbered-heading">About Derrick</h2>
 
       <div className="inner">
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              I am deeply passionate about transforming raw data into meaningful and actionable
+              insights that drive informed decision-making and business success. I find joy in all
+              facets of data work, from collection and engineering (including transforming,
+              pipelining, modeling, and feature engineering) to analysis and creating machine
+              learning models for predictions and forecasting.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
+              Today, I’ve had the privilege of working at{' '}
               <a href="https://naivas.online/">a leading retailer in east africa</a>,{' '}
-              <a href="https://gilanisdistributors.com/">a leading FMCG distributor</a>,{' '}
+              <a href="https://gilanisdistributors.com/">an FMCG distributor</a>,{' '}
               <a href="https://www.savannahghi.org/">a healthcare system company</a>, and{' '}
               <a href="https://www.amnestykenya.org/">a community-led digital human rights NGO</a>.
               Passionate about providing accessible, data-driven strategies, I aim to improve
