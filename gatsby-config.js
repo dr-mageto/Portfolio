@@ -7,7 +7,7 @@ module.exports = {
       'As a data analyst, I have specialized in interpreting and visualizing complex data sets to deliver key insights.',
     siteUrl: 'https://derrickmageto.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    // twitterUsername: '@bchiang7',
+    twitterUsername: '@bchiang7',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
