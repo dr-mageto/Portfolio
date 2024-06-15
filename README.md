@@ -2,13 +2,16 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  brittanychiang.com - v4
+  derrickmageto.com
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  All Credits to the original author <a href="https://brittanychiang.com" target="_blank">Brittany Chiang</a>
 </p>
 <p align="center">
-  Previous iterations:
+  The first iteration of <a href="https://derrickmageto.com" target="_blank">derrickmageto.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+</p>
+<p align="center">
+  Previous iterations done by the author:
   <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
   <a href="https://github.com/bchiang7/v2" target="_blank">v2</a>,
   <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
@@ -31,7 +34,7 @@ Please also note that I did not build this site with the intention of it being a
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to the original author [brittanychiang.com](https://brittanychiang.com). Thanks!
 
 ## 🛠 Installation & Set Up
 

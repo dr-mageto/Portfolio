@@ -3,6 +3,10 @@ module.exports = {
 
   socialMedia: [
     {
+      name: 'WhatsApp',
+      url: 'https://wa.me/725680795',
+    },
+    {
       name: 'GitHub',
       url: 'https://github.com/dr-mageto/',
     },
