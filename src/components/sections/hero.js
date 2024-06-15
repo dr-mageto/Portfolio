@@ -59,17 +59,17 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const one = <h1>Jambo!, I'm</h1>;
+  const two = <h2 className="big-heading">Derrick Mageto.</h2>;
+  const three = <h3 className="big-heading">I turn data into actionable insights.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+        As a data analyst, I have specialized in interpreting and visualizing complex data sets to
+        deliver key insights. Currently, I am dedicated to providing accessible, data-centric
+        strategies at{' '}
+        <a href="https://naivas.online/" target="_blank" rel="noreferrer">
+          Naivas
         </a>
         .
       </p>
