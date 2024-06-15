@@ -150,7 +150,7 @@ const About = () => {
               <a href="https://www.amnestykenya.org/"> a digital human rights NGO</a>. Passionate
               about providing accessible, data-driven strategies, I aim to improve decision-making,
               optimize processes and foster significant business growth at
-              <a href="https://naivas.online/"> Naivas</a> for 10M+ customers monthly.
+              <a href="https://naivas.online/">Naivas</a> for 10M+ customers monthly.
             </p>
 
             {/* <p>
