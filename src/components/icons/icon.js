@@ -15,8 +15,9 @@ import {
   IconPlayStore,
   IconStar,
   IconTwitter,
+  IconWhatsapp,
+  IconKaggle,
 } from '@components/icons';
-
 const Icon = ({ name }) => {
   switch (name) {
     case 'AppStore':
@@ -48,9 +49,9 @@ const Icon = ({ name }) => {
     case 'Twitter':
       return <IconTwitter />;
     case 'Whatsapp':
-      return <IconExternal />;
+      return <IconWhatsapp />;
     case 'Kaggle':
-      return <IconExternal />;
+      return <IconKaggle />;
     default:
       return <IconExternal />;
   }
