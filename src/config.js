@@ -2,18 +2,18 @@ module.exports = {
   email: 'derrickmageto@yahoo.com',
 
   socialMedia: [
-    {
-      name: 'Kaggle',
-      url: 'https://www.kaggle.com/machora',
-    },
+    // {
+    //   name: 'Kaggle',
+    //   url: 'https://www.kaggle.com/machora',
+    // },
     // {
     //   name: 'WhatsApp',
     //   url: 'https://wa.me/725680795',
     // },
-    // {
-    //   name: 'GitHub',
-    //   url: 'https://github.com/dr-mageto/',
-    // },
+    {
+      name: 'GitHub',
+      url: 'https://github.com/dr-mageto/',
+    },
     // {
     //   name: 'Instagram',
     //   url: 'https://www.instagram.com/bchiang7',
