@@ -16,6 +16,7 @@ import {
   IconStar,
   IconTwitter,
   IconWhatsapp,
+  IconKaggle,
 } from '@components/icons';
 
 const Icon = ({ name }) => {
@@ -50,6 +51,8 @@ const Icon = ({ name }) => {
       return <IconTwitter />;
     case 'Whatsapp':
       return <IconWhatsapp />;
+    case 'Kaggle':
+      return <IconKaggle />;
     default:
       return <IconExternal />;
   }

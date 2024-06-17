@@ -3,6 +3,10 @@ module.exports = {
 
   socialMedia: [
     {
+      name: 'Kaggle',
+      url: 'https://www.kaggle.com/machora',
+    },
+    {
       name: 'WhatsApp',
       url: 'https://wa.me/725680795',
     },
