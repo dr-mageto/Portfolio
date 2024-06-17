@@ -1,5 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import { FaSquareWhatsapp } from 'react-icons/fa6';
+import { FaKaggle } from 'react-icons/fa';
 import {
   IconAppStore,
   IconBookmark,
@@ -15,8 +17,6 @@ import {
   IconPlayStore,
   IconStar,
   IconTwitter,
-  IconWhatsapp,
-  IconKaggle,
 } from '@components/icons';
 
 const Icon = ({ name }) => {
@@ -50,9 +50,9 @@ const Icon = ({ name }) => {
     case 'Twitter':
       return <IconTwitter />;
     case 'Whatsapp':
-      return <IconWhatsapp />;
+      return <FaSquareWhatsapp />;
     case 'Kaggle':
-      return <IconKaggle />;
+      return <FaKaggle />;
     default:
       return <IconExternal />;
   }
