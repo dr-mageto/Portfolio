@@ -1,14 +1,12 @@
 ---
 date: '2018-12-18'
-title: 'Inventory Demand Optimization for Retail'
+title: 'Retail Inventory Optimization'
 github: 'https://github.com/bchiang7/spotify-profile'
 external: 'https://spotify-profile.herokuapp.com/'
 tech:
   - Facebook Prophet
   - Spark
-  - sklearn
   - Microsoft Fabric
-  - ML Model Version Control
 showInProjects: True
 ---
 
