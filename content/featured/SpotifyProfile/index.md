@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Inventory Demand Optimization for Retail'
 cover: './demo.png'
 github: 'https://github.com/bchiang7/spotify-profile'
 external: 'https://spotify-profile.herokuapp.com/'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Facebook Prophet
+  - Spark
+  - sklearn
+  - Microsoft Fabric
+  - ML Model Version Control
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+My goal for this project is to optimize inventory levels by providing near accurate forecasted demand to reduce stockouts, minimizing overstock and improving overall supply chain efficiency. This will lead to lower holding costs, better cash flow management and increased customer satisfaction.
