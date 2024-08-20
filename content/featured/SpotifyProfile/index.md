@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Retail Inventory Optimization'
-cover: './demo.png'
+cover: './InventoryOptimization.png'
 github: 'https://github.com/bchiang7/spotify-profile'
 external: 'https://spotify-profile.herokuapp.com/'
 tech:
