@@ -10,4 +10,4 @@ tech:
   - Apache Spark
 ---
 
-This project builds an automated ETL pipeline in Microsoft Fabric to handle large data volumes. It extracts, transforms, and loads data into a centralized warehouse, ensuring clean and up-to-date data for analytics. Automated scheduling, monitoring, and error-handling ensure efficient, reliable operations with minimal manual effort.
+This project is a build of an automated ETL pipeline in Microsoft Fabric to handle large data volumes. I extracted, transformed and loaded data into a centralized warehouse, ensuring clean and up-to-date data for analytics.I Automated the pipelines using ADF through which I ensured efficient, reliable operations with minimal manual effort, transparent monitoring and proper error-handling techniques.
