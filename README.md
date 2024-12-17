@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/dr-mageto/Portfolio/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   derrickmageto.com
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-![demo](https://github.com/dr-mageto/PersonalWebsite/blob/derrickmageto/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/dr-mageto/Portfolio/main/src/images/demo.png)
 
 ## 🚨 Forking this repo (please read!)
 
