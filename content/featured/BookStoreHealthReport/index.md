@@ -10,6 +10,4 @@ tech:
   - Python
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+My passion for understanding societal challenges motivated me to undertake this project to evaluate the effectiveness of disaster relief programs in supporting community recovery. Disasters, both natural and man-made, have significant impacts on communities and ensuring that relief efforts are efficient and impactful is crucial. By analyzing data on disaster relief initiatives, I identified patterns, gaps and opportunities for improvement in how these programs contribute to rebuilding and strengthening affected communities.

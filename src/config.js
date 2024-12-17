@@ -42,6 +42,10 @@ module.exports = {
       url: '/#projects',
     },
     {
+      name: 'Blog',
+      url: 'https://blog.derrickmageto.com',
+    },
+    {
       name: 'Contact',
       url: '/#contact',
     },

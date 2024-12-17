@@ -1,0 +1,15 @@
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <title>Loader Logo</title>
+<style type="text/css">
+	.st0{fill:#0A192F;}
+	.st1{enable-background:new;}
+	.st2{fill:#66FFDD;}
+</style>
+<g>
+	<polygon class="st0" points="0,24.2 0,72.6 43.1,96.8 86.2,72.6 86.2,24.2 43.1,0"/>
+	<g class="st1">
+		<path class="st2" d="M28.5,66.6V26h11.5c14.7,0,22.1,6.6,22.1,19.8c0,6.3-2,11.3-6.1,15.1s-9.6,5.7-16.4,5.7H28.5z M33.4,30.3v32
+			h6.2c5.5,0,9.7-1.4,12.8-4.3c3-2.8,4.6-6.9,4.6-12.1c0-10.4-5.7-15.6-17.1-15.6H33.4z"/>
+	</g>
+</g>
+</svg>
