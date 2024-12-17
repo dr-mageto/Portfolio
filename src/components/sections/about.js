@@ -136,21 +136,21 @@ const About = () => {
           <div>
             <p>
               I am passionate about transforming raw data into meaningful and actionable insights
-              that drive informed decision-making and business success. I find joy in all facets of
-              data work, from collection and engineering (including transforming, pipelining,
-              modeling, and feature engineering) to analysis and creating machine learning models
-              for predictions and forecasting.
+              that drive informed decision-making for both non profit organizations and for profit
+              businesses. I find joy in all facets of data work, from collection and engineering
+              (including transforming, pipelining, modeling and feature engineering) to analysis and
+              creating machine learning models for predictions and forecasting.
             </p>
 
             <p>
               Today, I’ve had the privilege of working at{' '}
-              <a href="https://naivas.online/">a leading retailer in east africa </a>,{' '}
+              <a href="https://naivas.online/">a leading retailer in East Africa </a>,{' '}
               <a href="https://gilanisdistributors.com/">an FMCG distributor </a>,
               <a href="https://www.savannahghi.org/">a healthcare system company</a> and{' '}
-              <a href="https://www.amnestykenya.org/"> a digital human rights NGO</a>. Passionate
+              <a href="https://www.amnestykenya.org/"> a human rights non profit</a>. Passionate
               about providing accessible, data-driven strategies, I aim to improve decision-making,
               optimize processes and foster significant business growth at{' '}
-              <a href="https://naivas.online/">Naivas</a> for 10M+ customers monthly.
+              <a href="https://naivas.online/">Naivas</a> for 1M+ customers monthly.
             </p>
 
             {/* <p>
